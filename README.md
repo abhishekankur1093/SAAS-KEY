@@ -1,5 +1,5 @@
 
-# SASS-KEY
+# SAAS-KEY
 # SaasKey
 
 SassKey is a secure chat application implemented in Python using socket programming and ElGamal encryption.
